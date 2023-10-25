@@ -1,0 +1,7 @@
+SUCCESS
+SUCCESS
+SUCCESS
+SUCCESS
+SUCCESS
+FAIL
+No enum constant hu.bme.mit.spaceship.FiringMode.A
